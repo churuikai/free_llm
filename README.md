@@ -79,16 +79,16 @@ parsers:
         - DOMAIN-SUFFIX,ttwstatic.com,relay
         - DOMAIN-SUFFIX,byteoversea.com,relay
         - DOMAIN-SUFFIX,byteintlapi.com,relay
-        # 谷歌学术 静态住宅代理
+        # 谷歌学术 转发到纯净节点
         - DOMAIN-KEYWORD,scholar.google,relay
-        # 谷歌 静态住宅代理
+        # 谷歌 转发到纯净节点
         - DOMAIN-KEYWORD,google,relay
-        # grok 静态住宅代理
+        # grok 转发到纯净节点
         - DOMAIN-KEYWORD,grok.com,relay
         - DOMAIN-KEYWORD,x.ai,relay
-        # claude 静态住宅代理
+        # claude 转发到纯净节点
         - DOMAIN-KEYWORD,claude.ai,relay
-        # cursor 静态住宅代理
+        # cursor 转发到纯净节点
         - DOMAIN-KEYWORD,cursor,relay
 
 
