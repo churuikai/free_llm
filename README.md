@@ -17,26 +17,28 @@
 
 1️⃣ **科学上网工具**
 
-- 推荐 `Clash`
-- 汉化版：[Clash 中文版](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases) (一般下载 `Clash.for.Windows-0.20.39-Opt.1-win.7z` 即可)
+推荐 `Clash`
+- [Clash 中文版](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases) (一般下载 `Clash.for.Windows-0.20.39-Opt.1-win.7z` 即可)
 
 2️⃣ **获取跳板节点**
 
-- 纯净节点通常属于墙外网络，需要一个普通节点作为跳板
-- 推荐：[魔戒](https://mojie.app/register?aff=6DpwXzur)（十分便宜，10元100G+流量）
+纯净节点通常属于墙外网络，需要一个普通节点作为跳板。给出一些推荐：
+- [魔戒](https://mojie.app/register?aff=6DpwXzur)（十分便宜，10元100G+流量）
+- 如有推荐，欢迎提 issue
 
 3️⃣ **获取纯净节点**
 
-- 推荐使用`海外静态住宅代理`服务; 可几人共用，但不可太多人滥用。
-- 例如：[Proxy302](https://share.proxy302.com/KNlOWp)（每月 7.99 美元）
-
+推荐使用`海外静态住宅代理`服务; 可几人共用，但不可太多人滥用。给出一些推荐：
+- [Proxy302](https://share.proxy302.com/KNlOWp)（每月 7.99 美元）
+- 如有推荐，欢迎提 issue
+  
 ### 1.2 配置转发规则
 
 4️⃣ **配置 Clash**
 
 1. 点击配置 → 右键单击节点 → 点击设置 → 复制节点的 URL
 2. 点击配置 → 右键单击节点 → 点击配置文件预处理 → 点击编辑解析器
-3. 清空并粘贴以下内容：
+3. 清空并粘贴以下内容（部分内容请按需调整）：
 
 ```yaml
 parsers:
@@ -149,11 +151,12 @@ parsers:
 
 ## 💳 3. 常用大模型平台充值方法
 
-大多数平台需要国外信用卡，推荐使用信用卡代理平台：
+大多数平台需要国外信用卡，推荐使用信用卡代理平台。
 
 - [Wildcard](https://bewildcard.com/i/RLEYJ1IK)
   - 优势：提供一键充值大模型服务（网络环境纯净的情况下十分可行）
   - 缺点：需要支付一次性开卡费和少量手续费
+- 如有推荐，欢迎提 issue
 
 
 ## 🔑 4. 大模型API获取与使用
