@@ -489,10 +489,10 @@ parsers:
           port: ****
           username: ****************
           password: *******************
-# 魔戒
-- url: ******** （此处粘贴刚刚复制的 url）
+  # 魔戒
+  - url: ******** （此处粘贴刚刚复制的 url）
     yaml:
-    prepend-proxy-groups:
+      prepend-proxy-groups:
         - name: SELECT
           type: select
           proxies:
